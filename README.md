@@ -28,9 +28,9 @@ Copyright (c) 2017-2018 MadcoinCoin Developers
 | Specification | Value             |
 | ------------- |:------------------|
 | Bitcointalk   | [https://bitcointalk.org/index.php?topic=4279358](https://bitcointalk.org/index.php?topic=4279358)       |
-| Discord       | [https://discord.gg/](https://discord.gg/ |
+| Discord       | [https://discord.gg/kpX8bZe](https://discord.gg/kpX8bZe) |
 | Website       | [https://madcoin.life](https://madcoin.life) |
-| Explorer      | [http://madcoin.blockxplorer.info/](http://madcoin.madcoinexplorer.info)
+| Explorer      | [hhttp://block.madcoin.life:3001](http://block.madcoin.life:3001/)
 
 
 License
